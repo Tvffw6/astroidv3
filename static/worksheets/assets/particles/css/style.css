@@ -27,7 +27,7 @@ li{list-style:none}
 html,body{ 
 	width:100%;
 	height:100%;
-	background:#111;
+	background:#52ebff;
 }
 
 html{
@@ -50,12 +50,12 @@ canvas{
 /* ---- stats.js ---- */
 
 .count-particles{
-  background: #000022;
+  background: #52ebff;
   position: absolute;
   top: 48px;
   left: 0;
   width: 80px;
-  color: #13E8E9;
+  color: #52ebff;
   font-size: .8em;
   text-align: left;
   text-indent: 4px;
@@ -124,3 +124,4 @@ canvas {
   margin: 0 10px;
   
 }
+
